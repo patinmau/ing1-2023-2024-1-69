@@ -11,5 +11,6 @@ void main() {
     }
     int c =  makecol(0, 255, 0);
     rect(screen, 80 , 260, 160, 300, c);
+    printf("test");
 
 }END_OF_MAIN()
